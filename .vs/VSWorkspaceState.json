@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AnimalsGame",
+    "\\AnimalsGame\\AnimalsGame"
   ],
-  "SelectedNode": "\\C:\\Users\\dasha\\Source\\Repos\\HeadFirstTasks",
+  "SelectedNode": "\\AnimalsGame\\AnimalsGame\\MainWindow.xaml",
   "PreviewInSolutionExplorer": false
 }
